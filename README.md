@@ -1,5 +1,3 @@
----
-
 ## 🔎 Results
 
 - The TIC plot above shows the intensity of ions detected across the retention time of the LC-MS run.
@@ -7,6 +5,11 @@
   - Consistent baseline signal across the run.
   - Well-defined peaks indicating peptide elution.
   - Absence of long periods of low or zero signal (which can indicate injection or LC issues).
+
+
+![TIC plot](TIC_plot.png)
+
+
 
 ---
 
